@@ -33,7 +33,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RiZwAn755&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ashishm0511&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 
@@ -43,7 +43,7 @@
 ### 📈 Visitor Counter
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RiZwAn755&style=flat-square&color=0e75b6&label=Visitors" alt="Visitor count" />
+  <img src="https://komarev.com/ghpvc/?username=Ashishm0511&label=Total+Profile+Views&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
 
 ---
