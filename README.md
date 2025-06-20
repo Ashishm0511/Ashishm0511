@@ -43,7 +43,7 @@
 ### 📈 Visitor Counter
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RiZwAn755&style=flat-square&color=blue&label=Profile+Views" alt="Visitor count" />
+  <img src="https://komarev.com/ghpvc/?username=Ashishm0511&style=flat-square&color=blue&label=Profile+Views" alt="Visitor count" />
 </p>
 
 ---
