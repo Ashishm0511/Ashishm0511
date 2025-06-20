@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Ashish Maurya</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&multiline=true&lines=🚀+DevOps+Engineer;💻+Automation+%7C+CI%2FCD+%7C+Cloud+%7C+Monitoring;🔧+Docker+%7C+Kubernetes+%7C+Linux+%7C+AWS&center=true&width=100&height=25" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&multiline=true&lines=🚀+DevOps+Engineer;💻+Automation+%7C+CI%2FCD+%7C+Cloud+%7C+Monitoring;🔧+Docker+%7C+Kubernetes+%7C+Linux+%7C+AWS&center=true&width=1000&height=5" />
 </p>
 
 
@@ -36,6 +36,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Ashishm0511&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
+
 
 
 
