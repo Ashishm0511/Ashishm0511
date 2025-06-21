@@ -26,7 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" />
 </p>
 
 ---
@@ -39,7 +39,7 @@
 
 <h3 align="center">Visitor count</h3>
 <p align="center">
-  <img src="https://hitwebcounter.com/counter/counter.php?page=YOUR_COUNTER_ID&style=0006&nbdigits=7&type=page&initCount=0" title="Visitor Counter" Alt="web counter" border="0" />
+  <img src="https://hitwebcounter.com/counter/counter.php?page=20962032&style=0006&nbdigits=7&type=page&initCount=0" title="Visitor Counter" Alt="web counter" border="0" />
 </p>
 
 
