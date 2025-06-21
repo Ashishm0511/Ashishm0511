@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Ashish Maurya</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&multiline=true&lines=🚀+DevOps+Engineer;💻+Automation+%7C+CI%2FCD+%7C+Cloud+%7C+Monitoring;🔧+Docker+%7C+Kubernetes+%7C+Linux+%7C+AWS&center=true&width=1000&height=5" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&multiline=true&lines=🚀+DevOps+Engineer;💻+Automation+%7C+CI%2FCD+%7C+Cloud+%7C+Monitoring;🔧+Docker+%7C+Kubernetes+%7C+Linux+%7C+AWS&center=true&width=1000&height=55" />
 </p>
 
 
@@ -34,20 +34,12 @@
 ### 🔥 GitHub Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ashishm0511&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Ashishm0511&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
-
-
-
-
-
----
-
-### 👁️ Visitor Count
-
+<h3 align="center">Visitor count</h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ashishm0511&label=Total+Profile+Views&color=0e75b6&style=flat-square" alt="Profile views" />
+  <img src="https://hitwebcounter.com/counter/counter.php?page=YOUR_COUNTER_ID&style=0006&nbdigits=7&type=page&initCount=0" title="Visitor Counter" Alt="web counter" border="0" />
 </p>
 
 
