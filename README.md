@@ -17,31 +17,30 @@
 
 ---
 
-### 🧰 DevOps Tools & Technologies:
+## 💼 DevOps Tools & Technologies:
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="Bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" alt="Jenkins" />
 </p>
 
----
-
-### 🔥 GitHub Streak Stats
+## 🔥 GitHub Streak Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Ashishm0511&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<h3 align="center">Visitor count</h3>
-<p align="center">
-  <img src="https://hitwebcounter.com/counter/counter.php?page=20962032&style=0006&nbdigits=7&type=page&initCount=0" title="Visitor Counter" Alt="web counter" border="0" />
-</p>
+---
 
+## 👁️ Visitor Count
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ashishm0511&label=Profile+Views&color=brightgreen&style=flat-square" alt="Visitor count" />
+</p>
 
 ---
 
