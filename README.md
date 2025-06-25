@@ -21,8 +21,9 @@
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ashishm0511&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashishm0511&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
+>
 
 ---
 
