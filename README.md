@@ -17,18 +17,8 @@
 
 ---
 
-## 💼 DevOps Tools & Technologies:
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="Bash" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" alt="Jenkins" />
-</p>
-
-## 🔥 GitHub Streak Stats
+### 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Ashishm0511&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
@@ -36,18 +26,24 @@
 
 ---
 
-## 👁️ Visitor Count
+### 🛠️ Tools & Technologies
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ashishm0511&label=Profile+Views&color=brightgreen&style=flat-square" alt="Visitor count" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" />
 </p>
 
 ---
 
-### 🤝 Let's Connect:
+### 📫 Contact
 
-- 📧 Email: **ashishm1900@gmail.com**
-
+- 📧 Email: [ashishm1900@gmail.com](mailto:ashishm1900@gmail.com)
+- 🌐 GitHub: [github.com/Ashishm0511](https://github.com/Ashishm0511)
 
 
 ---
