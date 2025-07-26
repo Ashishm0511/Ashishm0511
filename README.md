@@ -14,7 +14,7 @@
 ### 👨‍💻 About Me:
 
 - 🛠 DevOps Engineer passionate about automation, scalable deployments, and cloud infrastructure.
-- ☁️ Skilled in AWS, Docker, Kubernetes, CI/CD, GitHub Actions, Jenkins, and scripting (Bash).
+- ☁️ Skilled in AWS, Docker, Kubernetes, CI/CD, GitHub Actions, Jenkins, and scripting (Bash), Terraform.
 - 📈 Experience with monitoring tools like Prometheus, Grafana, and ELK stack.
 - 🐧 Strong with Linux system administration and version control using Git.
 - 📫 Reach me at: **ashishm1900@gmail.com**
