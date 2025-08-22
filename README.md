@@ -22,7 +22,7 @@
 ---
 
 
-### 🔥 GitHub Streak
+###🔥 GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Ashishm0511&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
